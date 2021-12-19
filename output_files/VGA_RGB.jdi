@@ -1,0 +1,16 @@
+<sld_project_info>
+  <project>
+    <hash md5_digest_80b="92618017ccf942f31c20"/>
+  </project>
+  <file_info>
+    <file device="10M50DAF484C7G" path="VGA_RGB.sof" usercode="0xFFFFFFFF"/>
+  </file_info>
+  <sld_infos>
+    <sld_info hpath="vga_rgb:inst1|ADC:ADC2" name="ADC2">
+      <assignment_values>
+        <assignment_value text="QSYS_NAME ADC HAS_SOPCINFO 1 GENERATION_ID 1638321691"/>
+      </assignment_values>
+      <parameters/>
+    </sld_info>
+  </sld_infos>
+</sld_project_info>

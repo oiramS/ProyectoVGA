@@ -1,0 +1,18 @@
+Fitter Status : Successful - Mon Dec 13 22:22:39 2021
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : VGA_RGB
+Top-level Entity Name : Block3
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 17,626 / 49,760 ( 35 % )
+    Total combinational functions : 14,295 / 49,760 ( 29 % )
+    Dedicated logic registers : 11,826 / 49,760 ( 24 % )
+Total registers : 11826
+Total pins : 18 / 360 ( 5 % )
+Total virtual pins : 0
+Total memory bits : 768 / 1,677,312 ( < 1 % )
+Embedded Multiplier 9-bit elements : 12 / 288 ( 4 % )
+Total PLLs : 2 / 4 ( 50 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 1 / 2 ( 50 % )

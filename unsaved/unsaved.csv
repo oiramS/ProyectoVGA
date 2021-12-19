@@ -1,0 +1,21 @@
+# system info unsaved on 2021.11.30.23:49:36
+system_info:
+name,value
+DEVICE,10M50DAF484C7G
+DEVICE_FAMILY,MAX 10
+GENERATION_ID,1638337771
+#
+#
+# Files generated for unsaved on 2021.11.30.23:49:36
+files:
+filepath,kind,attributes,module,is_top
+simulation/unsaved.vhd,VHDL,,unsaved,true
+simulation/submodules/altera_reset_controller.v,VERILOG,,altera_reset_controller,false
+simulation/submodules/altera_reset_synchronizer.v,VERILOG,,altera_reset_controller,false
+simulation/submodules/altera_reset_controller.sdc,SDC,,altera_reset_controller,false
+#
+# Map from instance-path to kind of module
+instances:
+instancePath,module
+unsaved.adc_0,unsaved_adc_0
+unsaved.rst_controller,altera_reset_controller
